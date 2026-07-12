@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://iplocation.hirak.site/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hirak-ip-to-country-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hirak-ip-to-country-domain-security.yml
   - type: Website
     url: https://iplocation.hirak.site/
   - type: PublicAPIsListing
