@@ -39,7 +39,6 @@ apis:
   - name: Hirak IP to Country
     description: "Ip to location with country code, currency code & currency name, fast response, unlimited requests"
     humanURL: https://iplocation.hirak.site/
-    baseURL: https://iplocation.hirak.site/
     tags:
       - Geocoding
     properties:
